@@ -1,0 +1,19 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "A basic contact list to lear express as a framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SakshiJadaun",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "6.9",
+    "node-modules": "^1.0.1"
+  }
+}
